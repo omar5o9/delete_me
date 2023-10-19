@@ -1,0 +1,15 @@
+{
+  "name": "delete_me",
+  "version": "1.0.0",
+  "description": "delete",
+  "main": "index.js",
+  "scripts": {
+    "hello": "Hello World!"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
